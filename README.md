@@ -1,2 +1,3 @@
 # CS340
-Operating Systems Projects
+
+Projects for Operating Systems in Java
