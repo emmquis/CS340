@@ -6,10 +6,10 @@ public class SimpleShell
 {
     public static void main(String[] args) throws IOException
     {
-        /*
-        String OSName = System.getProperty("os.name");
-        System.out.println(OSName);
-        */
+        
+        //String OSName = System.getProperty("os.name");
+        //System.out.println(OSName);
+        
         
         String commandLine;
         BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
