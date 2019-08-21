@@ -1,4 +1,4 @@
-# CS340
+# School Assignments
 
 Projects for Operating Systems in Java
 
