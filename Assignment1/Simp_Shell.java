@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.ArrayList;
 
 
-public class SimpleShell
+public class Simp_Shell
 {
     public static void main(String[] args) throws IOException
     {
